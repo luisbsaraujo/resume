@@ -1,0 +1,149 @@
+a {
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+  margin: 70px auto;
+
+
+}
+p{
+  line-height: 2;
+  font-weight: bold;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.7rem;
+  line-height: 1.5;
+  color: #155263;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #155263;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bold;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.subtitle{
+  font-weight: normal;
+}
+
+.whoami{
+  width: 25%;
+  margin: 0 auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  margin-bottom: 70px;
+
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.communication-img{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.leadership-img{
+  width: 15%;
+  float: right;
+  margin-left: 30px
+}
+.resilient-img{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+.BUTTON_POS {
+   background: #CCF2F4;
+   background-image: -webkit-linear-gradient(top, #CCF2F4, #51ACFF);
+   background-image: -moz-linear-gradient(top, #CCF2F4, #51ACFF);
+   background-image: -ms-linear-gradient(top, #CCF2F4, #51ACFF);
+   background-image: -o-linear-gradient(top, #CCF2F4, #51ACFF);
+   background-image: -webkit-gradient(to bottom, #CCF2F4, #51ACFF);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 24px;
+   font-weight: bold;
+   padding: 16px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.middle-container{
+  padding-bottom: 50px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  color: white;
+}
+
+.copyright{
+  font-size: 0.8rem;
+  font-weight: normal;
+  color: #EAF6F6;
+  padding: 20px 0;
+}
+
+.myphoto{
+  padding-top: 40px;
+  width: 200px;
+}
